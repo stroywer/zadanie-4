@@ -1,0 +1,13 @@
+C:\Users\Никита.DESKTOP-CCHKJ4F\source\repos\Demo\storage\bin\Debug\storage.dll.config
+C:\Users\Никита.DESKTOP-CCHKJ4F\source\repos\Demo\storage\bin\Debug\storage.dll
+C:\Users\Никита.DESKTOP-CCHKJ4F\source\repos\Demo\storage\bin\Debug\storage.pdb
+C:\Users\Никита.DESKTOP-CCHKJ4F\source\repos\Demo\storage\bin\Debug\EntityFramework.dll
+C:\Users\Никита.DESKTOP-CCHKJ4F\source\repos\Demo\storage\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Никита.DESKTOP-CCHKJ4F\source\repos\Demo\storage\bin\Debug\EntityFramework.xml
+C:\Users\Никита.DESKTOP-CCHKJ4F\source\repos\Demo\storage\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Никита.DESKTOP-CCHKJ4F\source\repos\Demo\storage\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Никита.DESKTOP-CCHKJ4F\source\repos\Demo\storage\obj\Debug\storage.csproj.AssemblyReference.cache
+C:\Users\Никита.DESKTOP-CCHKJ4F\source\repos\Demo\storage\obj\Debug\storage.csproj.CoreCompileInputs.cache
+C:\Users\Никита.DESKTOP-CCHKJ4F\source\repos\Demo\storage\obj\Debug\storage.csproj.CopyComplete
+C:\Users\Никита.DESKTOP-CCHKJ4F\source\repos\Demo\storage\obj\Debug\storage.dll
+C:\Users\Никита.DESKTOP-CCHKJ4F\source\repos\Demo\storage\obj\Debug\storage.pdb
